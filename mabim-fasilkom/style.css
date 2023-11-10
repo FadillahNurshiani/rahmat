@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+}
+nav{
+    background-color: blue;
+}
+nav a{
+    text-decoration: none;
+    color:aliceblue;
+    float: right;
+    padding: 20px;
+}
+nav a:hover{
+    text-decoration: none;
+    color: brown;
+    float: right;
+    padding: 20 px;
+    background-color: cadetblue;
+}
+nav img {
+    float: left;
+}
+h1{
+    color:blue
+}
+/*HALAMAN INDEX*/
+/*HALAMAN LOGIN*/
+.warp{
+    padding: 50PX 500PX 50px 500px;
+}
+
+.bg-login {
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+input[type=password] {
+    width: 100%;
+}
+
+input[type=text] {
+    width: 100%;
+}
+/*HALaman login*/
